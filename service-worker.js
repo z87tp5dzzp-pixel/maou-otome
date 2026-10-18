@@ -1,5 +1,5 @@
 /* 魔王之女 — service worker. Paths are relative to this file, so it works under any subpath. */
-const CACHE = 'maou-otome-1792328137';
+const CACHE = 'maou-otome-1792329132';
 const CORE = ['./', './index.html', './renpy-pre.js', './renpy.js', './renpy.wasm', './renpy.data',
               './game.zip', './manifest.json', './web-presplash.jpg',
               './icons/icon-180x180.png', './icons/icon-192x192.png', './icons/icon-512x512.png'];
